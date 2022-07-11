@@ -24,7 +24,7 @@ The frontend client makes API calls to the backend server when it is running.
   - JWT Authentication
   - Spring Data JPA
   - Hibernate
-  - PostgreSQL
+  - MySQL
   - Maven
 
 **Frontend**
@@ -32,11 +32,6 @@ The frontend client makes API calls to the backend server when it is running.
   - Angular CLI
   - Bootstrap
 
-## Database Schema
-
-Install Postgressql -> after installation -> search PGAdmin
-Open Admin -> give password which you provide at the time of installation.
-Create Database with name "ecommerce". Then run queries provided in eshop.sql script one by one.
 
 
 ## How to  Run
